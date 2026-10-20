@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jualin.id</string>
+    <string name="search_hint">Cari produk, kategori, merek...</string>
+    <string name="discount_badge">%1$d%% OFF</string>
+    <string name="add_to_cart">Tambah ke Keranjang</string>
+    <string name="buy_now">Beli Sekarang</string>
+    <string name="cart_title">Keranjang Belanja</string>
+    <string name="total_payment">Total Pembayaran</string>
+    <string name="checkout">Checkout Sekarang</string>
+</resources>

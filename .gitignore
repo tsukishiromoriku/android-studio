@@ -1,0 +1,27 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+/build/
+build/
+*/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# Android Studio navigation and cache
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Signing files
+*.jks
+*.keystore
+
+# Log files
+*.log
